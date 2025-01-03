@@ -1,8 +1,8 @@
 export const SITE_FAVICON = "/favicon.png";
 export const SITE_LOGO = "/journal-logo.svg";
-export const SITE_TITLE = "Journal";
+export const SITE_TITLE = "Gospel Exploder";
 export const SITE_DESCRIPTION =
-  "Blog";
+  "Gospel-centered Bible studies";
 
 export const MENUS = [
   {
@@ -15,11 +15,6 @@ export const MENUS = [
     link: "/tags",
     target: "_self",
   },
-  {
-    title: "Download",
-    link: "https://new-ui.com/templates/journal",
-    target: "_blank",
-  }
 ];
 
-export const FOOTER_CONTENT = "Love Everyone";
+export const FOOTER_CONTENT = "We are more sinful and flawed in ourselves than we ever dared believe, yet at the very same time we are more loved and accepted in Jesus Christ than we ever dared hope.";
